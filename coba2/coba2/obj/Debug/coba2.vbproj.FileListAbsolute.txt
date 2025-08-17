@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\coba2\coba2\bin\Debug\coba2.exe.config
+C:\Users\LENOVO\source\repos\coba2\coba2\bin\Debug\coba2.exe
+C:\Users\LENOVO\source\repos\coba2\coba2\bin\Debug\coba2.pdb
+C:\Users\LENOVO\source\repos\coba2\coba2\bin\Debug\coba2.xml
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.Resources.resources
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.exe
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.xml
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.pdb
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.exe.config
+C:\Users\LENOVO\source\repos\coba2\coba2\obj\Debug\coba2.Form1.resources
