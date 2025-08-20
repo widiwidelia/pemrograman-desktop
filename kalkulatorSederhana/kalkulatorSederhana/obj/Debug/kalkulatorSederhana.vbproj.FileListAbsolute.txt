@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.exe.config
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.exe
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.pdb
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.xml
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.Form1.resources
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.Resources.resources
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.exe
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.xml
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.pdb
+C:\Users\LENOVO\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.exe.config
